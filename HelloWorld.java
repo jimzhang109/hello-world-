@@ -7,7 +7,7 @@ public class HelloWorld {
 		
 		double area = ShapeUtil.calculateArea(s);
 		double Perimeter = ShapeUtil.calculatePerimeter(s);
-		System.out.println("Area222 = " + area);
+		System.out.println("Area123 = " + area);
 		System.out.println("Perimeter = " + Perimeter);
 	}
 
