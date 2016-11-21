@@ -7,12 +7,12 @@ public class HelloWorld {
 		
 		double area = ShapeUtil.calculateArea(s);
 		double Perimeter = ShapeUtil.calculatePerimeter(s);
-		System.out.println("Area = " + area);
+		System.out.println("Area222 = " + area);
 		System.out.println("Perimeter = " + Perimeter);
 	}
 
 	public static void init(Rectangle s){
 		s.setWidth(1);
-		s.setHeight(2);
+		s.setHeight(32);
 	}
 }
